@@ -57,7 +57,7 @@ Each project contains:
 ---
 
 ## 🚧 In Progress
-More monthly projects will be added as the 12‑month program continues.
+More monthly projects will be added as this ongoing program continues.
 
 ---
 
