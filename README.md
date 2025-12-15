@@ -51,7 +51,9 @@ Each project contains:
 
 ## ✅ Completed Projects
 
-### **Month 01**
+### ✅ Remote Sensing & GEE Basics
+
+#### **Month 01**
 - [Project 01 – CHIRPS Mean Precipitation (2020)](month01/project01)
 
 ---
