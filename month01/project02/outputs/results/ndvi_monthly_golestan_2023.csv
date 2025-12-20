@@ -1,0 +1,13 @@
+system:index,month,ndvi,year,.geo
+0,1.0,0.3044505801424848,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,2.0,0.3715411550570153,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2,3.0,0.463176531432789,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
+3,4.0,0.45242280296217324,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
+4,5.0,0.3212717980876322,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
+5,6.0,0.31117736239580335,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
+6,7.0,0.3440708010413365,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
+7,8.0,0.3489090512967119,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
+8,9.0,0.3162577321882095,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
+9,10.0,0.2923354571546993,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
+10,11.0,0.2988820125529064,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
+11,12.0,0.36776872027607466,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
